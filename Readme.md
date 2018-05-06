@@ -19,7 +19,9 @@
 ### 5.1 Data Preprocessing
 ### 5.2 Support Vector Regression
 ### 5.3 Artifial Neutral Work
+ANN as a popular deep learning method, is good at learning from a mass of historical data to predict the future values, and can be used to predit the exchange rate.
+#### 5.3.1 data 
 
-## 6.Result & Analysis
+## 6.Result & Analysi
 
 ## References
